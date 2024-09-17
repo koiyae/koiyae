@@ -4,8 +4,6 @@
 
 [![Canal](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@brunokoiyae)
 
-![Koiyae GitHub stats](https://github-readme-stats.vercel.app/api?username=koiyae&show_icons=true&theme=gruvbox)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koiyae&layout=compact&exclude_repo=dotfiles-gruvbox,dotfiles,dotfiles-blue,temperatureRestAPI)
 
 </div>
