@@ -14,7 +14,11 @@
 
 ### 📊 Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api?username=koiyae&show_icons=true&theme=radical&exclude_repo=dotfiles-gruvbox,dotfiles,dotfiles-blue,temperatureRestAPI)
+![Stats](https://github-readme-stats.vercel.app/api?username=koiyae&show_icons=true&theme=radical&exclude_repo=dotfiles-gruvbox,dotfiles,dotfiles-blue,temperatureRestAPI)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koiyae&layout=compact)
+
+
 
 </div>
 
