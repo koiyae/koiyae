@@ -1,7 +1,7 @@
 ![logo](https://i.postimg.cc/MGMHX1Nc/duomo-milano-vista-dal-basso.jpg)
 <div align="left">
 
-## 🇧🇷 Bruno Simões 
+# 🇧🇷 Bruno Simões 
 
 [![Canal](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@brunokoiyae) 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunosimoes1/)
