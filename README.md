@@ -8,7 +8,7 @@
 
 **`QA/Developer`**
 
-```I'm a QA professional with a strong passion for mobile app development, currently working on personal projects where I’m building apps from scratch. Alongside this, I love diving into the world of cybersecurity and low-level programming.```
+```I'm a QA professional deeply passionate about low-level programming and cybersecurity. I love diving into these areas, constantly exploring and working on projects. At the same time, enjoy developing mobile apps, creating them from scratch and bringing ideas to life.```
 
 ---
 
