@@ -3,7 +3,7 @@
 
 # 🇧🇷 Bruno Simões 
 
-[![Canal](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@brunokoiyae) 
+[![Canal](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@koiyae) 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunosimoes1/)
 
 **`QA/Developer`**
