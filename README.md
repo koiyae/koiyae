@@ -20,7 +20,7 @@
 <div style="display: flex; flex-wrap: wrap; justify-content: space-evenly;">
     <p align="left">
         <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=c,arduino,latex,androidstudio,kotlin,ktor,java,py,selenium,js,html,css,ts,bun,vue,linux&perline=8" />
+            <img src="https://skillicons.dev/icons?i=c,arduino,latex,androidstudio,kotlin,ktor,java,py,selenium,js,html,css,ts,bun,elysia,vue,linux&perline=8" />
         </a>
     </p>
 </div>
